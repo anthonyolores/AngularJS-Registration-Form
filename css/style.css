@@ -1,0 +1,13 @@
+body
+{
+	background-color: #eee;
+	padding-top: 50px;
+}
+h2
+{
+	padding-bottom: 20px;
+}
+.col-md-6 {background-color: #fff; padding: 50px;}
+.strong   {  color:green;}
+.medium   {  color:blue;}
+.weak     {  color:red;}
