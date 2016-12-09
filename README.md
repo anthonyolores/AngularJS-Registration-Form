@@ -3,7 +3,8 @@ Registration Form
 Simple registration form powered by bootstrap while fields are validated using AngularJS.
 The form will not proceed until all fields are filled correctly.
 
-Fields:
+Name / Type / Validation
+
 * First Name - Text / Required
 * Last Name - Text / Required
 * Username - Text / Required / minimum 5 chars and maximum of 20 chars
