@@ -1,6 +1,6 @@
 Registration Form
 
-Simple registration form powered by bootstrap and fields are validated using AngularJS.
+Simple registration form powered by bootstrap while fields are validated using AngularJS.
 The form will not proceed until all fields are filled correctly.
 
 Fields:
