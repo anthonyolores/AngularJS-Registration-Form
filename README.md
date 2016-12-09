@@ -7,7 +7,8 @@ Fields:
 * First Name - Text / Required
 * Last Name - Text / Required
 * Username - Text / Required / minimum 5 chars and maximum of 20 chars
-* Password - password / Required / at least 8 letters or digits
+* Password - Password / Required / at least 8 letters or digits
+* Email - Email / Required / Email must not exist
 * Age - Number / Required / greater than 17 and less than 61
 
 
