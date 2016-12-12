@@ -81,11 +81,11 @@
 					$scope.invalid_password && 
 					$scope.invalid_email)
 					{
-						alert("Fields are properly inputted");	
+						alert('form is not ready');
 					}
 					else
 					{
-						alert('form is not ready');
+						alert("Fields are properly inputted");	
 					}
 								
 			}
